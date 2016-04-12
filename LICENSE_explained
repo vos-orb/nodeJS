@@ -1,0 +1,36 @@
+Quick Summary
+
+The AGPL license differs from the other GNU licenses in that it was built for network software. You can distribute modified versions if you keep track of the changes and the date you made them. As per usual with GNU licenses, you must license derivatives under AGPL. It provides the same restrictions and freedoms as the GPLv3 but with an additional clause which makes it so that source code must be distributed along with web publication. Since web sites and services are never distributed in the traditional sense, the AGPL is the GPL of the web.
+
+
+== YOU Can ==
+Commercial Use 
+    - you have the ability to use the software for commercial purposes.
+Modify
+    - you have the ability to modify the software and create derivatives.
+Distribute
+    - you have the ability to distribute original or modified (derivative) works.
+Place Warranty
+    - you have the ability to place warranty on the software licensed.
+
+
+==YOU Cannot==
+Sublicense
+    - you can not grant/extend a license to the software.
+Hold Liable
+    - you can not the warranty and if the software/license owner can be charged for damages.
+
+
+==YOU Must==
+Include Copyright
+    - the original copyright must be retained.
+Include License
+    - you must include the full text of license in modified software.
+State Changes
+    - you must state significant changes made to software.
+Disclose Source
+    - you must disclose your source code when you distribute, publish or serve (i.e. through a web portal) modified or derivative software.
+Include Install Instructions
+    - you must include build & install instructions. 
+
+
